@@ -33,3 +33,8 @@ Evidencia status 200
 
 Evidencia status 404:
 ![image](https://github.com/user-attachments/assets/d33da0ad-6760-4e13-8150-255574d6b5cc)
+
+
+Evidencia do H2:
+![image](https://github.com/user-attachments/assets/717d678c-5f37-4ead-bcb9-7adcf27ef5a8)
+
